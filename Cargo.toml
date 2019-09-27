@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 typed-igo = { git = "https://github.com/statiolake/typed-igo-rs" }
+failure = "0.1.5"
